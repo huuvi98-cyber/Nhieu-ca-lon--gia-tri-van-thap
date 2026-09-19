@@ -1,0 +1,7 @@
+{
+  "name": "Đồ Họa Động Biển - Motion Graphics Studio",
+  "description": "Studio đồ họa động tương tác chủ đề đại dương và kinetic typography chuyển động mượt mà",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
